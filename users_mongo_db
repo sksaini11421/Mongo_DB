@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b2"
+  },
+  "name": "pepper barbeque chicken",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4647.jpg",
+  "description": "o eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo"
+},{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b3"
+  },
+  "name": "Non Veg Supreme",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4625-CMB1211.jpg",
+  "description": "o eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo"
+},{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b4"
+  },
+  "name": "Non Veg Supreme",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4625-CMB1211.jpg",
+  "description": "o eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo"
+},{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b5"
+  },
+  "name": "Non Veg Supreme",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4625-CMB1211.jpg",
+  "description": "o eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo"
+},{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b6"
+  },
+  "name": "Non Veg Supreme",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4625-CMB1211.jpg",
+  "description": "o eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo"
+},{
+  "_id": {
+    "$oid": "626d27ed30e2b358e65418b7"
+  },
+  "name": "Non Veg Supreme",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "https://images.dominos.co.in/4625-CMB1211.jpg",
+  "description": "Non Veg Supreme"
+},{
+  "_id": {
+    "$oid": "627ba71454dce1881ef4173b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627ba732faaf801d805deb2d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627ba752faaf801d805deb2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627ba7a3c33c50c5f1fea67b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627bb7e36ef7ebb6db99bf05"
+  },
+  "name": "Non Veg Supreme122",
+  "varients": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "price": [
+    {
+      "small": 200,
+      "medium": 350,
+      "large": 400
+    }
+  ],
+  "category": "nonveg",
+  "image": "dfjdjfh",
+  "description": "Non Veg Supreme",
+  "createdAt": {
+    "$date": "2022-05-11T13:19:31.884Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-11T13:19:31.884Z"
+  },
+  "__v": 0
+}]
